@@ -84,6 +84,15 @@ body {
     font-family: 'Poppins', sans-serif;
   }
 
+@media (max-width: 768px) {
+	#aboutus {
+		flex-direction: column;
+
+		margin: 0 20px;
+
+}
+
+
   .hr {
     color: #8b4513 !important;
   }
@@ -140,7 +149,7 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-
+<!-- contatti -->
 .contatti {
 	display: flex;
 	flex-direction: column;
