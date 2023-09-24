@@ -48,7 +48,7 @@ body {
 
   #col-2 {
     background-image: url("img/falegname.jpg");
-    background-size: 200% 100%;
+    background-size: 100% 200%;
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
