@@ -2,6 +2,10 @@
   margin-bottom: 0px !important;
 }
 
+.navbar-brand {
+  color: brown;
+}
+
 .btn-primary {
   background-color:#8b4513 !important;
   border-color: #8b4513 !important;
