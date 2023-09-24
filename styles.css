@@ -45,6 +45,10 @@ body {
     opacity: 0.5;    
   }
 
+  .img chisiamo {
+	  width: 100%;
+    height: 500px;
+  }
 
   #col-1 {
     background-color: #fff;
