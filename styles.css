@@ -16,6 +16,10 @@ body {
     height: fit-content;
   }
 
+.logo {
+	margin-right: 2px;
+}
+
   .swiper-slide {
     text-align: center;
     font-size: 18px;
