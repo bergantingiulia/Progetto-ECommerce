@@ -3,7 +3,7 @@
 }
 
 .navbar-brand {
-  color: #8b4513;
+  color: #8b4513 !important;
 }
 
 .btn-primary {
@@ -21,7 +21,7 @@ body {
   }
 
 .logo {
-	margin-right: 4px;
+	margin-right: 4px !important;
 }
 
   .swiper-slide {
