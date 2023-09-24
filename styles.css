@@ -46,8 +46,8 @@ body {
   }
 
   .img chisiamo {
-	  width: 100%;
-    height: 500px;
+	  width: 100% !important;
+    height: 50px !important;
   }
 
   #col-1 {
