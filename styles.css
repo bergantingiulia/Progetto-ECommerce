@@ -161,7 +161,7 @@ body {
 
 .contatti .indirizzo a {
 	text-decoration: none;
-	color: #2D407A;
+	color: #8b4513;
 }
 
 #contact input[type="text"],
@@ -178,7 +178,7 @@ body {
 }
 
 #contact h3 {
-	color: #2D407A;
+	color: #8b4513;
 	display: block;
 	font-size: 30px;
 	font-weight: 400;
@@ -231,7 +231,7 @@ fieldset {
 	cursor: pointer;
 	width: 100%;
 	border: none;
-	background: #2D407A;
+	background: #8b4513;
 	color: #FFF;
 	margin: 0 0 5px;
 	padding: 10px;
@@ -239,7 +239,7 @@ fieldset {
 }
 
 #contact button[type="submit"]:hover {
-	background: #2D407A;
+	background: #8b4513;
 	-webkit-transition: background 0.3s ease-in-out;
 	-moz-transition: background 0.3s ease-in-out;
 	transition: background-color 0.3s ease-in-out;
