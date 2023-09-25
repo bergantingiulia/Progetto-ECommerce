@@ -150,12 +150,6 @@
 
 
               <tr>
-                <th scope="row">Costi di spedizione (gratuito sopra i €50):</th>
-                <td id="shippingCost">€0</td>
-              </tr>
-
-
-              <tr>
                 <th scope="row">Totale:</th>
                 <td id="grandTotal">€0</td>
               </tr>
@@ -216,12 +210,7 @@
         totalCost2Output.textContent = "€" + totalCost2;
         totalCost3Output.textContent = "€" + totalCost3;
 
-        var subTotal = totalCost1 + totalCost2 + totalCost3;
-        if (subTotal > 50) {
-          var shippingCost = 0;
-        } else {
-          var shippingCost = 8;
-        }
+      
 
         var grandTotal = subTotal + shippingCost;
 
