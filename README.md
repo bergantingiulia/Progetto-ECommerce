@@ -5,3 +5,4 @@ Benvenuti nel repository del mio progetto per il corso di Web Design 2, tenuto d
 
 Il sito si può visualizzare tramite questo link
 https://fabrianobergantin-ecommerce.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87c9fde5-bc4a-412e-9603-c263285d2962/deploy-status)](https://app.netlify.com/sites/progettoesame/deploys)
