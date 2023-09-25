@@ -101,6 +101,10 @@ body {
 	  color: #8b4513 !important;
   }
 
+  h2 {
+    text-align: center;
+  }
+
   .info {
     background-color:#8b4513;
     color: white;
