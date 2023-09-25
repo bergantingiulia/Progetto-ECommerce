@@ -7,149 +7,141 @@
 }
 
 .btn-primary {
-  background-color:#8b4513 !important;
+  background-color: #8b4513 !important;
   border-color: #8b4513 !important;
-  }
-  
+}
+
 body {
   font-family: 'Poppins', sans-serif !important;
 }
 
-  .swiper {
-    width: 100%;
-    height: fit-content;
-  }
-
-.logo {
-	margin-right: 4px !important;
+.swiper {
+  width: 100%;
+  height: fit-content;
 }
 
-  .swiper-slide {
-    text-align: center;
-    font-size: 18px;
-    background: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+.logo {
+  margin-right: 4px !important;
+}
 
-  .swiper-slide img {
-    display: block;
-    width: 100%;
-    height: 740px;
-    object-fit: cover;
-  }
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-  .style
-  .card-img-top:hover {
-    opacity: 0.5;    
-  }
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 740px;
+  object-fit: cover;
+}
 
+.style .card-img-top:hover {
+  opacity: 0.5;
+}
 
+#col-2 {
+  background-image: url("img/falegname.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 500px;
+  text-align: center;
+  padding-top: 180px;
+  margin-right: 7px;
+  margin-left: 7px;
+  border-radius: 5px;
+}
 
-  #col-1 {
-    background-color: #fff;
-    width: 100%;
-    height: 700px;
-    padding-top: 200px;
-    margin-left: 5%;
-  }
-
-  #col-2 {
-    background-image: url("img/falegname.jpg");
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-    height: 500px;
-    text-align: center;
-    padding-top: 180px;
-  } 
-
-  #scopri {
-    color:#ffffff;
-  }
+#scopri {
+  color: #ffffff;
+}
 
 
-  .space {
-    height: 70px;
-    max-width: fit-content;
-    margin: 0 auto;
-  }
+.space {
+  height: 70px;
+  max-width: fit-content;
+  margin: 0 auto;
+}
 
-  .space2 {
-    height: 30px;
-    max-width: fit-content;
-    margin: 0 auto;
-  }
+.space2 {
+  height: 30px;
+  max-width: fit-content;
+  margin: 0 auto;
+}
 
-  .titolo {
-    text-align: center;
-    font-family: 'Poppins', sans-serif;
-  }
+.titolo {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
 
-  #aboutus {
-    font-family: 'Poppins', sans-serif;
-  }
+#aboutus {
+  font-family: 'Poppins', sans-serif;
+}
 
 
-  .hr {
-    color: #8b4513 !important;
-  }
+.hr {
+  color: #8b4513 !important;
+}
 
-  h3 {
-	  color: #8b4513 !important;
-  }
+h3 {
+  color: #8b4513 !important;
+}
 
-  h2 {
-    text-align: center;
-	  color: #8b4513 !important;
-  }
+h2 {
+  text-align: center;
+  color: #8b4513 !important;
+}
 
-  .info {
-    background-color:#8b4513;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    vertical-align:  center;
-    font-family: Trebuchet MS, sans-serif;
+.info {
+  background-color: #8b4513;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  vertical-align: center;
+  font-family: Trebuchet MS, sans-serif;
 }
 
 
 #iconimagesbot {
-    font-size: 25px !important;
-    vertical-align:  bottom;
-    margin: 0 10px;
+  font-size: 25px !important;
+  vertical-align: bottom;
+  margin: 0 10px;
 }
 
 #iconimagesbot2 {
-    font-size: 27px !important;
-    vertical-align: bottom;
-    margin: 0 10px;
+  font-size: 27px !important;
+  vertical-align: bottom;
+  margin: 0 10px;
 }
 
 #iconimagesbot3 {
-    font-size: 27px !important;
-    vertical-align: bottom;
-    margin: 0 10px;
+  font-size: 27px !important;
+  vertical-align: bottom;
+  margin: 0 10px;
 }
 
 .infotext {
-     vertical-align: center;
-     display: inline;
-     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   }
+  vertical-align: center;
+  display: inline;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
 .social {
-    width: 30px;
-    vertical-align: center;
-    margin: 5px;
+  width: 30px;
+  vertical-align: center;
+  margin: 5px;
 }
 
 #map {
-    width: 100%;
-    height: 200px;
-    margin-top: 50px;
+  width: 100%;
+  height: 200px;
+  margin-top: 50px;
 }
 
 .footer {
@@ -159,28 +151,28 @@ body {
 
 
 .contatti {
-	display: flex;
-	flex-direction: column;
+  display: flex;
+  flex-direction: column;
 
-	margin: 50px 30px;
+  margin: 50px 30px;
 }
 
 .contatti .form {
-	/* width: 80%; */
+  /* width: 80%; */
 }
 
 .contatti .indirizzo {
-	text-align: center;
+  text-align: center;
 }
 
 .contatti .indirizzo img {
-	height: 2em;
-	padding-right: 10px;
+  height: 2em;
+  padding-right: 10px;
 }
 
 .contatti .indirizzo a {
-	text-decoration: none;
-	color: #8b4513;
+  text-decoration: none;
+  color: #8b4513;
 }
 
 #contact input[type="text"],
@@ -189,32 +181,32 @@ body {
 #contact input[type="url"],
 #contact textarea,
 #contact button[type="submit"] {
-	font: 400 12px/16px "Gotham", Helvetica, Arial, sans-serif;
+  font: 400 12px/16px "Gotham", Helvetica, Arial, sans-serif;
 }
 
 #contact {
-	background: #ffffff;
+  background: #ffffff;
 }
 
 #contact h3 {
-	color: #8b4513;
-	display: block;
-	font-size: 30px;
-	font-weight: 400;
+  color: #8b4513;
+  display: block;
+  font-size: 30px;
+  font-weight: 400;
 }
 
 #contact h4 {
-	margin: 5px 0 15px;
-	display: block;
-	font-size: 13px;
+  margin: 5px 0 15px;
+  display: block;
+  font-size: 13px;
 }
 
 fieldset {
-	border: medium none !important;
-	margin: 0 0 10px;
-	min-width: 100%;
-	padding: 0;
-	width: 100%;
+  border: medium none !important;
+  margin: 0 0 10px;
+  min-width: 100%;
+  padding: 0;
+  width: 100%;
 }
 
 #contact input[type="text"],
@@ -222,11 +214,11 @@ fieldset {
 #contact input[type="tel"],
 #contact input[type="url"],
 #contact textarea {
-	width: 100%;
-	border: 1px solid #CCC;
-	background: #FFF;
-	margin: 0 0 5px;
-	padding: 10px;
+  width: 100%;
+  border: 1px solid #CCC;
+  background: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
 }
 
 #contact input[type="text"]:hover,
@@ -234,86 +226,90 @@ fieldset {
 #contact input[type="tel"]:hover,
 #contact input[type="url"]:hover,
 #contact textarea:hover {
-	-webkit-transition: border-color 0.3s ease-in-out;
-	-moz-transition: border-color 0.3s ease-in-out;
-	transition: border-color 0.3s ease-in-out;
-	border: 1px solid #AAA;
+  -webkit-transition: border-color 0.3s ease-in-out;
+  -moz-transition: border-color 0.3s ease-in-out;
+  transition: border-color 0.3s ease-in-out;
+  border: 1px solid #AAA;
 }
 
 #contact textarea {
-	height: 100px;
-	max-width: 100%;
-	resize: none;
+  height: 100px;
+  max-width: 100%;
+  resize: none;
 }
 
 #contact button[type="submit"] {
-	cursor: pointer;
-	width: 100%;
-	border: none;
-	background: #8b4513;
-	color: #FFF;
-	margin: 0 0 5px;
-	padding: 10px;
-	font-size: 15px;
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  background: #8b4513;
+  color: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+  font-size: 15px;
 }
 
 #contact button[type="submit"]:hover {
-	background: #8b4513;
-	-webkit-transition: background 0.3s ease-in-out;
-	-moz-transition: background 0.3s ease-in-out;
-	transition: background-color 0.3s ease-in-out;
+  background: #8b4513;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
 }
 
 #contact button[type="submit"]:active {
-	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
 }
 
 #contact input:focus,
 #contact textarea:focus {
-	outline: 0;
-	border: 1px solid #999;
+  outline: 0;
+  border: 1px solid #999;
 }
 
 ::-webkit-input-placeholder {
-	color: #888;
+  color: #888;
 }
 
 :-moz-placeholder {
-	color: #888;
+  color: #888;
 }
 
 ::-moz-placeholder {
-	color: #888;
+  color: #888;
 }
 
 :-ms-input-placeholder {
-	color: #888;
+  color: #888;
+}
+
+.img-chi {
+  width: 100%;
 }
 
 @media (max-width: 768px) {
-	.contatti {
-		flex-direction: column;
+  .contatti {
+    flex-direction: column;
 
-		margin: 0 20px;
-	}
+    margin: 0 20px;
+  }
 
-	#contact {
-		width: 100%;
-	}
+  #contact {
+    width: 100%;
+  }
 
-	.contatti .form {
-		width: 100%;
-		margin: 0;
-	}
+  .contatti .form {
+    width: 100%;
+    margin: 0;
+  }
 
-	.contatti .indirizzo {
-		margin: 20px 0;
-		order: 2;
+  .contatti .indirizzo {
+    margin: 20px 0;
+    order: 2;
 
-	}
+  }
 
-	.map {
-		margin: 0px 20px 20px 20px;
-	}
+  .map {
+    margin: 0px 20px 20px 20px;
+  }
 
 }
