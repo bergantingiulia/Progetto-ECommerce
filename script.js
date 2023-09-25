@@ -11,10 +11,6 @@ function rimuoviDalCarrello() {
   numero--;
   carrello.innerHTML = numero;
 }
-function svuotaCarrello() {
-  var carrello = document.getElementById("carrello");
-  carrello.innerHTML = 0;
-}
 
 
 
